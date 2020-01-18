@@ -1,0 +1,101 @@
+Track_ID,Tracks,album,artist,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+2Vx8E3K5icPZR7OCklWBXX,Nonstop,Scorpion,Drake,0.909,0.405,6,-8.133,0,0.14,0.0306,0.00698,0.105,0.455,154.984
+7cfvP13Bqb1EyCZQiYsLum,Can’t Take A Joke,Scorpion,Drake,0.878,0.432,10,-9.852,0,0.143,0.041,0.0,0.0571,0.441,86.956
+4uloft7ZE54WflsuqFmjC7,Elevate,Scorpion,Drake,0.755,0.47,1,-8.72,1,0.139,0.0153,0.0,0.118,0.0604,76.056
+1v1IXPXl73Z7zy6f5tUa9n,Emotionless,Scorpion,Drake,0.413,0.676,1,-5.124,1,0.213,0.0239,0.0,0.0811,0.0827,173.478
+2VWbHHhWnMzKWPUs4IEEW9,God's Plan,Scorpion,Drake,0.754,0.449,7,-9.212,1,0.108,0.0329,7.84e-05,0.55,0.35,77.167
+1iSZPndzmY6NvL1jAtIvY1,I'm Upset,Scorpion,Drake,0.899,0.587,11,-7.866,0,0.338,0.279,0.0,0.0835,0.49,149.993
+71SEHJPt1iDwGkBhUOAXDP,Survival,Scorpion,Drake,0.685,0.593,9,-9.083,0,0.284,0.134,0.0,0.123,0.144,84.763
+5fcM0StdQxMjzulVGhFkHN,8 Out Of 10,Scorpion,Drake,0.534,0.684,11,-7.874,0,0.717,0.164,0.0,0.499,0.338,170.416
+7txPE73wHbuXYkM1h8zNrG,Mob Ties,Scorpion,Drake,0.755,0.575,4,-8.392,0,0.0673,0.0443,0.00127,0.276,0.493,85.994
+1sPLURKAosM3Jampgp9AWq,Sandra’s Rose,Scorpion,Drake,0.487,0.85,1,-5.427,1,0.25,0.047,0.0,0.142,0.523,152.102
+3Yw09dj3cTXsAzlLjgBfIP,Talk Up,Scorpion,Drake,0.759,0.479,11,-10.65,1,0.186,0.0039,5.3e-06,0.302,0.347,140.089
+2QoOyCFpDo4NblMLP7vBRT,Is There More,Scorpion,Drake,0.636,0.538,1,-7.725,1,0.312,0.738,0.0,0.149,0.514,83.508
+2RAeY8dPj6KmStROfEigjV,Peak,Scorpion,Drake,0.689,0.217,9,-13.539,0,0.0387,0.847,0.000123,0.106,0.272,92.007
+0w1ZtnzQmtmuuoKxHT0pLL,Summer Games,Scorpion,Drake,0.776,0.482,1,-11.268,1,0.0356,0.481,0.0457,0.11,0.128,136.015
+3jipFRgLyKK0oJoG1pKicx,Jaded,Scorpion,Drake,0.766,0.272,0,-5.696,1,0.041,0.0366,0.0,0.175,0.037,116.036
+0HVv5bEOiI9a0QfgcASXpX,Nice For What,Scorpion,Drake,0.7,0.909,8,-6.461,1,0.0628,0.0884,0.000114,0.0778,0.757,93.469
+590bUp2TKTfTS9NfiD4Nmn,Finesse,Scorpion,Drake,0.807,0.321,0,-8.147,0,0.0571,0.132,0.000289,0.1,0.305,94.994
+16x6tqeSkIjoLEf7SJLlYy,Ratchet Happy Birthday,Scorpion,Drake,0.648,0.535,2,-13.295,1,0.1,0.458,0.00246,0.106,0.444,168.03
+0SVsEdvot6vU4byv5yW0oj,That’s How You Feel,Scorpion,Drake,0.81,0.451,10,-6.348,0,0.249,0.152,0.0537,0.108,0.359,85.417
+1Jrj3k5L36dPkU6KAclU7g,Blue Tint,Scorpion,Drake,0.888,0.377,7,-10.142,0,0.339,0.0126,0.0,0.19,0.126,133.996
+0bAkKNCQfWkexHFn7fIKns,In My Feelings,Scorpion,Drake,0.735,0.482,8,-9.445,1,0.139,0.00623,0.0144,0.448,0.315,181.995
+4IvenHmD0spfFDOKphoUDp,After Dark,Scorpion,Drake,0.65,0.429,2,-13.071,1,0.192,0.0386,0.0,0.139,0.333,141.855
+7ijJ5crvsnCvCLJbHpyq3j,Final Fantasy,Scorpion,Drake,0.461,0.449,0,-10.998,1,0.442,0.428,8.29e-06,0.115,0.104,86.505
+54oMZ3blwWwuPN4wEoG5mk,I'm Upset,I'm Upset,Drake,0.899,0.592,11,-7.901,0,0.333,0.263,0.0,0.0831,0.504,149.953
+6vN77lE9LK6HP2DewaN6HZ,Yes Indeed,Harder Than Ever,Lil Baby,0.964,0.346,5,-9.309,0,0.53,0.035,0.0,0.108,0.562,119.958
+0kzMtLeKUU7tmAUq2xh7WC,Jorja Interlude,More Life,Drake,0.735,0.373,11,-10.478,1,0.104,0.762,0.00202,0.288,0.237,123.081
+4qKcDkK6siZ7Jp1Jb4m0aL,Look Alive (feat. Drake),Look Alive (feat. Drake),BlocBoy JB,0.922,0.581,10,-7.495,1,0.27,0.00104,5.86e-05,0.105,0.595,140.022
+1xznGGDReH1oQq0xzbwXa3,One Dance,Views,Drake,0.791,0.619,1,-5.886,1,0.0532,0.00784,0.00423,0.351,0.371,103.989
+2ExePm1EBdSJkr4Y4Nc50z,Gyalchester,More Life,Drake,0.877,0.391,1,-8.196,1,0.063,0.0317,0.000502,0.0945,0.122,131.018
+4rujbg8RNFitwtkv1qEq4K,Back To Back,Back To Back,Drake,0.893,0.48,1,-3.728,0,0.356,0.00854,0.0,0.116,0.382,86.976
+5ACkknqH2GcrVtmBB7LaRv,Teenage Fever,More Life,Drake,0.766,0.283,8,-10.33,0,0.0846,0.111,0.0172,0.115,0.144,97.04
+3NzJnmcgNPGFWJYvO3HneW,Blem,More Life,Drake,0.726,0.535,7,-7.804,0,0.0476,0.0533,1.38e-05,0.0984,0.375,98.067
+6OnpdpwV97cpg5dHhtYWXL,Started From the Bottom,Started From the Bottom (Explicit Version),Drake,0.79,0.54,8,-6.959,1,0.183,0.0391,0.0,0.266,0.459,86.308
+5EnYT6F7wEcdege6mDHEfO,Signs,Signs,Drake,0.801,0.727,0,-4.687,1,0.0606,0.0864,0.00406,0.112,0.218,107.371
+1h0VyjjtKqqvMNjW82JyyE,Plastic Bag,What A Time To Be Alive,Drake,0.84,0.477,1,-6.599,1,0.325,0.0106,0.0,0.157,0.36,170.99
+0ZaSipkjXePTkzOQW29rxt,Madiba Riddim,More Life,Drake,0.839,0.521,7,-10.45,1,0.166,0.245,0.00545,0.607,0.33,105.992
+0Qdbw4psZRGYANJauFqbdt,10 Bands,If You're Reading This It's Too Late,Drake,0.825,0.757,11,-3.687,0,0.384,0.262,1.72e-06,0.0762,0.89,172.938
+0kCYaxWtR15Ljm0rvVvPQw,Madonna,If You're Reading This It's Too Late,Drake,0.905,0.506,2,-8.598,1,0.0588,0.0149,3.56e-05,0.371,0.122,110.017
+7jyDNWA876J5iY3YT2GAZD,Scholarships,What A Time To Be Alive,Drake,0.511,0.416,0,-9.203,0,0.384,0.0931,1.12e-05,0.0974,0.289,86.678
+21kVlWTlFf8dO8N2aTzlof,KMT,More Life,Drake,0.875,0.6,1,-6.818,1,0.0435,0.0189,0.0143,0.132,0.0906,119.987
+3LBBQH0CWnrG3kSvSmzArK,Free Smoke,More Life,Drake,0.736,0.491,10,-6.892,0,0.439,0.0681,0.0,0.571,0.203,141.979
+2YuurylylBcB0fJ8ho5soN,Childs Play,Views,Drake,0.691,0.482,1,-11.14,1,0.231,0.0173,7.1e-06,0.197,0.305,160.027
+1JxV2A7IFlmosxlCckJ8Yc,Do Not Disturb,More Life,Drake,0.618,0.693,7,-5.943,0,0.45,0.246,0.0,0.112,0.454,170.982
+4p3hA9qjCRix74GyuI3Qm5,With You,Views,Drake,0.872,0.407,1,-10.036,1,0.256,0.152,0.000188,0.112,0.802,127.97
+7juAP7GZBF0Dtm0qqLSWOJ,Still Here,Views,Drake,0.834,0.438,0,-9.577,1,0.152,0.0212,0.0,0.649,0.207,133.958
+6RrmYcWmDRmlR45kMTIZXg,You & The 6,If You're Reading This It's Too Late,Drake,0.574,0.476,3,-7.444,1,0.282,0.166,0.0,0.129,0.223,154.531
+39h7qYbmksGgxQzDH9X7Aq,Energy,If You're Reading This It's Too Late,Drake,0.748,0.571,11,-7.916,1,0.478,0.38,0.0,0.534,0.553,172.105
+11KJSRSgaDxqydKYiD2Jew,Too Good,Views,Drake,0.804,0.648,7,-7.805,1,0.117,0.0573,3.49e-05,0.102,0.392,117.983
+39liuGHPxn2sAyvO6DINor,Back On Road,Everybody Looking,Gucci Mane,0.833,0.673,1,-6.981,0,0.315,0.329,0.0,0.136,0.753,148.019
+6ZPtdyX2AyEILo48Q6K3uG,Crew Love,Take Care (Deluxe),Drake,0.418,0.546,0,-9.057,0,0.238,0.227,0.0,0.229,0.294,160.152
+61ASZHKdQHSIV4MEt0bRgw,Skepta Interlude,More Life,Drake,0.745,0.822,7,-6.354,1,0.252,0.0103,4.2e-06,0.155,0.415,86.733
+3GIlkmoqNZ3FC406hjYWOj,No Long Talk,More Life,Drake,0.913,0.608,10,-6.839,0,0.234,0.0671,0.0,0.533,0.578,97.063
+6jdOi5U5LBzQrc4c1VT983,"Hold On, We're Going Home",Nothing Was The Same (Deluxe),Drake,0.773,0.414,6,-7.436,0,0.0961,0.00411,3.37e-05,0.0733,0.289,99.993
+2ZB8Zwf6wd3PUMlSJKR2bG,Fire & Desire,Views,Drake,0.709,0.259,1,-14.341,0,0.0892,0.0803,0.0,0.0855,0.265,79.839
+1bJlwtRVds707na4C02LAj,Nothings Into Somethings,More Life,Drake,0.766,0.234,11,-7.544,0,0.159,0.332,0.00156,0.358,0.256,96.882
+7JANfTi37pZykRjB1JvPTV,Summers Over Interlude,Views,Drake,0.687,0.267,4,-8.818,0,0.0297,0.372,0.00411,0.0992,0.307,131.962
+48S3Pfu533qMMgHXmV1ruh,6 Man,If You're Reading This It's Too Late,Drake,0.812,0.535,4,-9.306,1,0.449,0.217,0.0,0.114,0.321,78.974
+1kLsyb2tgz9N5Qkr6QAK3t,Glow,More Life,Drake,0.688,0.384,9,-8.824,0,0.375,0.2,0.0,0.708,0.432,162.097
+5dHpbFmZjWucrol0M7aNGU,The Language,Nothing Was The Same (Deluxe),Drake,0.823,0.662,7,-8.426,1,0.318,0.0118,0.0,0.0805,0.533,120.117
+341El6Z12OUvbkmzyJBjmZ,Under Ground Kings,Take Care (Deluxe),Drake,0.487,0.712,8,-7.323,1,0.27,5.2e-05,0.0,0.198,0.397,156.209
+6391cUPODf6ipLYmpVnDXi,Practice,Take Care (Deluxe),Drake,0.446,0.239,1,-15.327,1,0.0876,0.574,7.76e-05,0.12,0.31,104.675
+0GQKP2WgHvBA8Nzb4xZu36,6 God,If You're Reading This It's Too Late,Drake,0.859,0.623,2,-8.596,1,0.106,0.0248,0.0,0.125,0.482,105.45
+7hDc8b7IXETo14hHIHdnhd,Passionfruit,More Life,Drake,0.809,0.463,11,-11.377,1,0.0396,0.256,0.085,0.109,0.364,111.98
+3fQhC8pMGwreADiY5VT3qp,HYFR (Hell Ya Fucking Right),Take Care (Deluxe),Drake,0.444,0.627,7,-8.744,0,0.252,0.123,0.0,0.0795,0.359,98.21
+3oQV2LqDmYJu6zkULJT1uj,4422,More Life,Drake,0.61,0.229,11,-12.36,0,0.0333,0.558,0.0413,0.113,0.19,111.887
+2jG6ifTWXk0AvonlgcXGgZ,Portland,More Life,Drake,0.925,0.443,1,-8.216,1,0.264,0.0172,0.0,0.276,0.35,136.078
+6H7b2XG2xcpctrl602BwGl,Feel No Ways,Views,Drake,0.581,0.673,7,-7.111,1,0.162,0.032,6.38e-06,0.116,0.209,193.668
+4ZJnHUUbOeavzCtiwjI0lc,Take Care,Take Care (Deluxe),Drake,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845
+1HnhCD1u0c4dHSMazmWGyM,Wu-Tang Forever,Nothing Was The Same (Deluxe),Drake,0.855,0.433,1,-8.447,0,0.15,0.0414,0.0,0.1,0.394,99.975
+5Ggfa9cpkpfp5D6Rg0Yyw1,Come Thru,Nothing Was The Same (Deluxe),Drake,0.472,0.468,3,-5.815,1,0.184,0.163,0.0,0.586,0.404,81.94
+7JnEdTyLhvRAZUg8z53Gx3,Hype,Views,Drake,0.785,0.633,7,-8.223,1,0.169,0.0259,0.0,0.368,0.244,129.97
+6F609ICg9Spjrw1epsAnpa,Controlla,Views,Drake,0.607,0.476,10,-11.076,0,0.249,0.0773,0.0,0.113,0.347,122.976
+78JdZwDRx3djou5gcRbCJV,Make Me Proud,Make Me Proud,Drake,0.69,0.498,1,-10.108,1,0.157,0.00251,0.000185,0.157,0.345,131.917
+5WHVJ7MILL1r5xs8hDfJ4i,Get It Together,More Life,Drake,0.781,0.721,5,-9.133,0,0.0514,0.0945,0.391,0.104,0.849,123.011
+1snt6FNtZASSQrJuS9serg,Pop Style,Pop Style,Drake,0.791,0.49,11,-9.05,1,0.242,0.187,1.95e-06,0.104,0.0499,133.085
+5LnXWeA9tuWKI2C1H74iiJ,Too Much,Nothing Was The Same (Deluxe),Drake,0.668,0.565,6,-5.879,1,0.505,0.171,0.0,0.124,0.142,140.489
+2ZRJRe82aZaVhOKKlbJr4v,Summer Sixteen,Summer Sixteen,Drake,0.594,0.46,1,-7.607,1,0.382,0.00354,2.71e-05,0.147,0.0541,146.274
+5WL9cWw3hEWaNf0J49YjEN,Shot For Me,Take Care (Deluxe),Drake,0.566,0.465,2,-11.714,1,0.235,0.0555,0.0,0.567,0.177,143.015
+7p5Ss9YspbUahAUDl59Wta,Headlines,Headlines,Drake,0.65,0.583,6,-7.39,0,0.0948,0.357,0.000316,0.0909,0.447,152.087
+18PSaTJMLkFNWnW0NWdOAW,Find Your Love,Thank Me Later (Int'l Version),Drake,0.625,0.613,6,-6.005,0,0.173,0.0209,0.0,0.0286,0.737,96.034
+7n4Kv0ArEyRh8p4wO5fG78,Preach,If You're Reading This It's Too Late,Drake,0.605,0.511,11,-8.094,0,0.475,0.165,8.95e-05,0.104,0.379,65.256
+0MAubp6s6yJTTaVQtX0VVB,Right Hand,Right Hand,Drake,0.915,0.301,2,-7.657,1,0.237,0.117,0.0,0.089,0.351,100.519
+4E92bmgFiHxvy2SNjXjC3b,Blessings,Dark Sky Paradise (Deluxe),Big Sean,0.775,0.621,1,-7.634,1,0.295,0.332,0.0,0.122,0.15,118.843
+7vL1M0BHhpjbaKrwRimJ4L,Sneakin’,Sneakin’,Drake,0.806,0.558,8,-6.538,1,0.172,0.00496,1.45e-06,0.16,0.26,85.011
+4OCusiRJHGimSzmo4KEP7q,Over My Dead Body,Take Care (Deluxe),Drake,0.489,0.57,1,-10.291,1,0.306,0.759,2.1e-06,0.179,0.584,185.516
+28XwBLUtFxOGoWzovwsdyJ,9,Views,Drake,0.703,0.699,2,-7.322,1,0.044,0.00113,0.000779,0.246,0.0393,99.991
+3EJ9ZuqkL1kwgouugqsLu8,Own It,Nothing Was The Same (Deluxe),Drake,0.652,0.345,8,-11.319,0,0.119,0.0437,3.59e-05,0.297,0.304,103.281
+4Kz4RdRCceaA9VgTqBhBfa,The Motto,Take Care (Deluxe),Drake,0.766,0.442,1,-8.558,1,0.356,0.000107,6.12e-05,0.111,0.39,201.8
+7ol8W3NEydMmc0cEvD96Ts,Can't Have Everything,More Life,Drake,0.856,0.572,1,-8.429,1,0.373,0.0136,1.55e-06,0.121,0.454,82.445
+465I5rJp4tgLMSwqkqmZOF,Lose You,More Life,Drake,0.526,0.583,4,-9.172,1,0.376,0.699,0.0,0.372,0.378,89.835
+0lDBERpbbSfh3og8dSszfj,For Free,For Free,DJ Khaled,0.916,0.571,10,-8.241,0,0.2,0.0173,1.11e-06,0.153,0.498,103.521
+1my81o4N4vaHpcMlA3Gj4y,U With Me?,Views,Drake,0.442,0.421,2,-11.455,1,0.137,0.376,7.23e-06,0.139,0.111,87.694
+6cmV9y1PdQHjHiVtziGaon,Best I Ever Had,So Far Gone,Drake,0.457,0.855,1,-4.877,1,0.382,0.204,0.0,0.28,0.59,162.164
+2DTNkIFrsB8nQ5Gt8vJAmZ,Redemption,Views,Drake,0.66,0.311,0,-8.681,1,0.113,0.625,1.29e-06,0.116,0.357,119.237
+77aA7V69QQ5SOz6clIPfSj,We'll Be Fine,Take Care (Deluxe),Drake,0.386,0.488,6,-7.303,0,0.422,0.00171,0.0,0.64,0.217,193.178
+3nR43A2UqJAkYzbYfIHRGa,I'm The Plug,What A Time To Be Alive,Drake,0.842,0.519,0,-9.255,1,0.223,0.000394,0.00069,0.131,0.249,160.003
+5rn98Px14UpOBtDuhZAAvV,Weston Road Flows,Views,Drake,0.62,0.722,1,-7.022,1,0.322,0.0733,0.0,0.273,0.365,82.918
+7IVQ3HgoP3SRoJqxym4nBD,Ice Melts,More Life,Drake,0.813,0.551,6,-7.605,0,0.353,0.08,0.0,0.386,0.598,124.957
+5A7VjjhrQwBnHR31i5W1Wv,Buried Alive Interlude,Take Care (Deluxe),Drake,0.711,0.543,0,-12.692,1,0.112,0.412,0.0,0.505,0.801,102.01
+31FWGQxshq14SCZvvyHae1,The Resistance,Thank Me Later (Int'l Version),Drake,0.439,0.737,0,-8.123,1,0.188,0.83,0.0,0.116,0.631,81.475
